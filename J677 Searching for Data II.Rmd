@@ -1,0 +1,33 @@
+---
+title: "J677 Searching for Data II"
+author: "Beth Shoop"
+date: "2025-02-11"
+output: html_document
+---
+## Looking for Data:
+1. Monitoring the Future
+2. National Survey on Drug Use and Health
+3. The Behavioral Risk Factor Surveillance System
+
+## Search Terms:
+1. Risky behaviors 
+2. Youth behaviors
+3. Substance use/abuse
+4. Substance use impacts
+
+## Topics Driving Search: 
+1. The changes in youth behaviors over the years 
+2. Increases or decreases in substance use 
+3. Impacts on youth from substance use 
+4. How often are youths engaging in substance use 5. How many children are engaging in substance use
+
+## Failed Searches:
+One of my failed searches was a "public use file" from the National Survey on Drug Use and Health. The survey was using data from 2021 to 2023 and it was showing records of a variety of substance abuse disorders and mental health issues related. This data set would have been perfect for my plans, but the excel spreadsheet would not open. My second failed data search was regarding the CDC State E-Cigarette youth use and access. This study did open but it was not as useful as I was expecting. The study showed the number of places youths can access E-Cigarettes but not the number of youths who use them. Since this study was not relevant to my research topic, it was a failed search.
+
+## Chosen Data Sets:
+The first data set I chose was from the University of Michigan's study "Monitoring the Future." This data source is very reliable since it is coming from a reputable, research institution. The study is about the alcohol use of students in grades 8-12 over a 12 month period. The study compares each year from 1975 to 2024. This data set could answer how alcohol use has changed among youths over the years. The data set contains the independent variable of grade level and dependent variable of alcohol use. There are 119 data points per year. The file size is 6KB. 
+
+My next data set was also from the University of Michigan's study "Monitoring the Future." This data source is very reliable since it is coming from a reputable, research institution. The study is comparing alcohol consumption of college students to non college students of the same age. This study can answer the question of is there one group who consumes more alcohol on average than the other. The independent variables in the study are college or non college students and the dependent variables are alcohol consumption. There are 146 observations in the study. The file size is 7KB.    
+
+## Self Grading:
+Based on my level of effort and expansion on my last assignments research I feel as though I deserve a 5/5 on the assignment. My ability to find and analyze data has become stronger from the last assignment until now and I believe a 100% is deserved.   
