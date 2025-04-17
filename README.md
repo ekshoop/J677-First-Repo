@@ -1,3 +1,8 @@
-Here is the description of this project
+# Name: Beth Shoop
 
-it is a new project
+## Miley Cyrus Wikipedia https://en.wikipedia.org/wiki/Miley_Cyrus 
+
+# Beth's Favorite Colors
+1. Pink
+2. Blue
+3. Yellow
