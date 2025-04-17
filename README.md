@@ -1,6 +1,6 @@
 # Name: Beth Shoop
 
-## [Miley Cyrus Wikipedia] (https://en.wikipedia.org/wiki/Miley_Cyrus) 
+[Miley Cyrus Wikipedia](https://en.wikipedia.org/wiki/Miley_Cyrus) 
 
 ## Beth's Favorite Colors
 1. Pink
