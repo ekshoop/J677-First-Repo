@@ -12,3 +12,5 @@
 - Tacos
 - Eggs 
 
+- this is my work from [week 2](J677-Week-2.html)
+
